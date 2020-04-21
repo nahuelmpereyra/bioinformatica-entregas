@@ -39,5 +39,9 @@ prediccionEstructural = ''
 for i in secuenciaProteica:
     if (i =='G') or (i =='S') or (i =='D') or (i =='N') or (i =='P'):
         prediccionEstructural += 'L'
+    elif (i =='V') or (i =='I') or (i =='F') or (i =='Y') or (i =='W') or (i =='T') or (i =='R'):
+            prediccionEstructural += 'B'
+    else:
+            prediccionEstructural += 'H'
 
 print(prediccionEstructural)
