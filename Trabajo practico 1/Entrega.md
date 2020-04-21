@@ -1,4 +1,4 @@
-#Entrega trabajo práctico Bioinformática Nº1
+# Entrega trabajo práctico Bioinformática Nº1
 
 Integrantes: 
 - Leonardo Di Carlo
@@ -14,7 +14,7 @@ Integrantes:
 
 #### RETO II: Proponé una forma de expresar la información contenida en la estructura primaria de las proteínas usando tipos de datos de los lenguajes de programación que conocés.
 
-*La estructura primaria de las proteínas se basa en los aminoácidos (hay una tabla periódica de 20 aminoácidos, y cada uno se        representa con 3 letras). Cada aminoácido se simplifica en una letra sola, por lo que un tipo de dato óptimo sería String.*
+*La estructura primaria de las proteínas se basa en los aminoácidos (hay una tabla periódica de 20 aminoácidos, y cada uno se        representa con 3 letras). Cada aminoácido se simplifica en una letra sola, por lo que un tipo de dato adecuado para representrar dicha estructura sería un String.*
 
 #### RETO III: ¿ En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
 
@@ -22,7 +22,8 @@ Integrantes:
 
 #### RETO IV: Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
 
-*Rosalind Franklin fue una científica Inglesa que realizó grandes contribuciones a la ciencia en la época de la Segunda Guerra Mundial. Mediante el estudio bajo la técnica de difracción de Rayos X pudo describir la estructura del ADN, descubriendo así la forma de "doble hélice" de las moléculas.*
+*Rosalind Franklin fue una científica Inglesa que realizó grandes contribuciones a la ciencia en la época de la Segunda Guerra Mundial. Mediante el estudio bajo la técnica de difracción de Rayos X pudo describir la estructura del ADN, descubriendo así la forma de "doble hélice" de las moléculas.
+Hay quienes sostienen incluso que ella habia llegado a la conclusion de la estructura helicoidal unos meses antes de la publicacion realizada por Watson y Crick. Pero que por no haber realizado ninguna publicación aún con los resultados de sus investigaciones e imágenes tomadas, que resultaron fundamentales para sostener la propuesta, no logró tener el reconocimiento merecido.*
 
 #### RETO V: Proponé en pseudocódigo un programa que prediga la estructura secundaria que adoptará cada residuo de la secuencia proteica dada, especificandola como H (si es una hélice), B (si es una hoja beta plegada) y L (si es un bucle o loop).
 
