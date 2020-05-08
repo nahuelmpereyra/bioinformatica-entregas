@@ -85,6 +85,9 @@ SEQRES → secuencia de residuo, es decir la estructura primaria.
 
 #### Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. Contanos sobre los procedimientos que puso a punto Rosalind.
 
+*Rosalind Franklin fue una científica Inglesa que realizó grandes contribuciones a la ciencia en la época de la Segunda Guerra Mundial. Mediante el estudio bajo la técnica de difracción de Rayos X pudo describir la estructura del ADN, descubriendo así la forma de "doble hélice" de las moléculas.
+Hay quienes sostienen incluso que ella habia llegado a la conclusion de la estructura helicoidal unos meses antes de la publicacion realizada por Watson y Crick. Pero que por no haber realizado ninguna publicación aún con los resultados de sus investigaciones e imágenes tomadas, que resultaron fundamentales para sostener la propuesta, no logró tener el reconocimiento merecido.*
+
 
 
 
