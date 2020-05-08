@@ -11,7 +11,7 @@ Integrantes:
 
 #### Dado el código genético como se muestra en la tabla:
  
-![alt text](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/Trabajo%20practico%203/tabla.png "Logo Title Text 1")
+![alt text](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/resources/tabla.png "Logo Title Text 1")
 
 ##### Crea un programa sencillo en algún lenguaje de programación que conozcas que imprima una cadena de ARN codificante para el siguiente péptido (cadena corta de aminoácidos).
 ##### Sec1: 'ATVEKGGKHKTGPNEKGKKIFVQKCSQCHTVLHGLFGRKTGQA'
