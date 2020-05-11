@@ -23,3 +23,5 @@ Integrantes:
 [Reto III](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/Trabajo%20practico%203/RetoIII.py)
 
 #### Diseñá un juego de mesa o un videojuego (hecho con la herramienta que más te guste) temático sobre expresión génica, con sus reglas y resúmen. Tené en cuenta que lo vas a tener que compartir con la clase. ¡El cielo es límite, a divertirse!
+
+[Reto IV](https://app.pilas-engine.com.ar/#/proyecto/e5327c87-b7c5-4e50-847c-d57fd8922c25)
