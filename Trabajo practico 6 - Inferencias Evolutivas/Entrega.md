@@ -32,7 +32,13 @@ Para el caso en el que se usaran todas las secuencias que se utilizaron en el TP
 
 #### 👇 RETO II: Como vimos anteriormente existen algunos softwares optimizados para confeccionar alineamientos de secuencias. En particular hemos trabajado con Clustal (Larkin et al. 2007). Confecciona los alineamientos para los del punto Ia y Ib análisis.
 
+![alt text](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/resources/retoII-tp6-a.png)
 
+![alt text](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/resources/retoII-tp6-b.png)
+
+![alt text](https://github.com/nahuelmpereyra/bioinformatica-entregas/blob/master/resources/retoII-tp6-c.png)
+
+Resaltado queda reflejado la mayor cercanía con el humano que con la mosca.
 
 
 #### 👇 RETO II: Mediante el uso del servidor de IQtree (Trifinopoulos et al. 2016), confecciona los árboles filogenéticos para los alineamientos obtenidos en el punto II.
